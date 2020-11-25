@@ -1,0 +1,32 @@
+_repo: Prospects-of-the-Church-of-England-A-sermon-preached-in-the-Parish-Church-of-Doncaster-on-Sun__63763
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Vaughan, C. J. (Charles John)
+    aliases:
+    - Vaughan, Chas. J. (Charles John)
+    - Vaughan, Charles John
+    birthdate: 1816
+    deathdate: 1897
+    gutenberg_agent_id: '52575'
+    url: http://www.gutenberg.org/2009/agents/52575
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Vaughan_(priest)
+description: ''
+gutenberg_issued: '2020-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63763'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sermons, English -- 19th century'
+- !lcc 'BR'
+- !lcsh 'Bible. Kings, 2nd, XII, 7 -- Sermons'
+- !lcsh 'Church of England -- Sermons'
+- GITenberg
+title: "Prospects of the Church of England\r\nA sermon preached in the Parish Church\
+  \ of Doncaster, on Sunday evening, August 30, 1868, on the occasion of the first\
+  \ offertory in lieu of a church-rate"
+url: http://www.gutenberg.org/ebooks/63763
